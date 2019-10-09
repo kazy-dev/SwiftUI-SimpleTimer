@@ -15,6 +15,7 @@
 		5AC5241D234DCFE400D52370 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5AC5241B234DCFE400D52370 /* LaunchScreen.storyboard */; };
 		5AC52425234DCFF500D52370 /* ContentViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AC52424234DCFF500D52370 /* ContentViewModel.swift */; };
 		5AC52428234DD11300D52370 /* screenshot.png in Resources */ = {isa = PBXBuildFile; fileRef = 5AC52427234DD11200D52370 /* screenshot.png */; };
+		5AC5242A234DD15100D52370 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 5AC52429234DD15100D52370 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		5AC5241E234DCFE400D52370 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5AC52424234DCFF500D52370 /* ContentViewModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ContentViewModel.swift; sourceTree = "<group>"; };
 		5AC52427234DD11200D52370 /* screenshot.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screenshot.png; sourceTree = "<group>"; };
+		5AC52429234DD15100D52370 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -47,6 +49,7 @@
 				5AC52426234DD10400D52370 /* Resources */,
 				5AC5240F234DCFE300D52370 /* SwiftUI-SimpleTimer */,
 				5AC5240E234DCFE300D52370 /* Products */,
+				5AC52429234DD15100D52370 /* README.md */,
 			);
 			sourceTree = "<group>";
 		};
@@ -149,6 +152,7 @@
 			files = (
 				5AC5241D234DCFE400D52370 /* LaunchScreen.storyboard in Resources */,
 				5AC5241A234DCFE400D52370 /* Preview Assets.xcassets in Resources */,
+				5AC5242A234DD15100D52370 /* README.md in Resources */,
 				5AC52417234DCFE400D52370 /* Assets.xcassets in Resources */,
 				5AC52428234DD11300D52370 /* screenshot.png in Resources */,
 			);
