@@ -8,6 +8,6 @@ This app is a simple count-up timer app created for SwiftUI learning.
   </div>
 
 # Environment
-Xcode11.1
-SwiftUI
-Mac OS 10.15（19A583）
+Xcode11.1  
+SwiftUI  
+Mac OS 10.15（19A583）  
